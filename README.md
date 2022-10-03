@@ -1,2 +1,3 @@
 # node-job-finder
-Job Finder - Node Application - Express
+_**Job Finder - Node Application - Express
+Api - Node.express - Sequelize**_
